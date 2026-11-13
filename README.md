@@ -6,5 +6,5 @@
 
 <p align="center">
   <a href="https://github.com/Rmanjini/Rmanjini/issues/new?title=feed&body=Click+Create+to+drop+food+in+the+pond+%F0%9F%8D%9A"><b>🍚 Feed the koi</b></a><br>
-  <sub><!-- fed -->Not fed yet. Be the first!<!-- /fed --></sub>
+  <sub><!-- fed -->Fed 1 time · last by @Rmanjini<!-- /fed --></sub>
 </p>
